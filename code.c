@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("Hsfsd\n");
+	int x = 10;
+	printf("Value of x: %d\n", x);
 	return 0;
 }
